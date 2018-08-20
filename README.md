@@ -4,5 +4,5 @@
 * Material design
 * Font-awesome
 
-** Run project **
+**Run project**
 `ng serve -o`
